@@ -1,58 +1,43 @@
 # CPTS302 - WASHINGTON STATE UNIVERISTY 
 
 #### Instructor Details
-- **Name**: ***[Ganapati Bhat](https://www.linkedin.com/in/gmbhat/)***
-  - **Email**: ganapati.bhat@wsu.edu
+- **Name**: ***[Shira Broschat](https://www.linkedin.com/in/shirabroschat/)***
+  - **Email**: shira@wsu.edu
     
 
 #### Course Description
-- Computer systems architecture; logic, data representation, assembly language, mem
- ory organization and trends.
+- Foundation in computing and engineering professional development.
 
 
 #### Course Objectives 
-- This course is to delve into structure and implementation of computer architecture. Though the lectures and the textbook will continue to get more acquainted with the MIPS architecture and how it relates to decoding and implementing high level languages such as C++ and JAVA.
+- Develop professional skills pertinent to computing and engineering fields.
+- Gain insights into project management and ethical considerations in engineering.
+- Enhance communication skills for a range of professional contexts.
+- Understand and apply legal and ethical principles in computing and engineering situations.
+- Prepare students for professional challenges by simulating real-world scenarios.
 
 
 #### By the end of the course, students will be able to:
-- Represent numbers in various bases, convert numbers from one basis to another, and perform arithmetic operations on the numbers
-- Apply floating point standard representations to convert floating point numbers from decimal to binary and vice versa
-- Apply the knowledge of computer performance to compute response time of a computer on a given program
-- Write MIPS assembly code for a given problem description
-- Write assembly code equivalence of a high level problem given for example in C
-- Assess performance of two computers on a given program workload
-- Identify how computers execute instructions and how register and memory contents are modified as a result of this execution
-- Simplify a given boolean function, draw its equivalent gatelevel circuit, and compare the simplified circuit with the original one in terms of delay and area complexity
-- Identify values of various control signals in a computer as a program is being executed by CPU
-- Identify what hardware blocks are active during execution of various instructions
-- Apply the knowledge of pipelining to compute the amount of time that it takes to execute a program on a pipelined architecture
-- Assess performance of a pipelined architecture versus an architecture without pipelining
-- Understand and apply strategies to deal with hazards in an architecture with pipelining
-- Compare performance of a computer with cache memory versus one without cache memory
-- Apply the knowledge of sequential circuits to identify how output of a sequential circuit changes during each clock cycle
-- Identify content of a cache memory for various cache designs including direct mapped, set associative, and fully associative designs
-- Apply the knowledge of memory hierarchy to compute hit rate, miss rate, and miss penalty for various memory hierarchy designs
+- Communicate effectively with a range of audiences in various professional contexts.
+- Recognize ethical and professional responsibilities and make informed judgments based on legal and ethical principles.
+- Acquire and apply new knowledge as needed, using appropriate learning strategies.
+- Work effectively in teams, managing projects and developing solutions collaboratively.
 
 #### Brief list of topics covered:
-1. Intruction Sets
-2. Computer Performance
-3. Integer Representation and Arithmetic
-4. Coding in MIPS: loops and function calls;
-5. Basics of Digital Design
-6. Single Cycle Simple MIPS Architecture
-7. Pipelining and Pipelined MIPS Architecture
-8. Virtual Memory
-9. Input/Ouput
+1. Professional development in computing and engineering
+2. Project management principles and practices.
+3. Ethics in technology and engineering
+4. Effective communication in professional settings
+5. Team dynamics and collaboration
+6. Case studies in engineering and computing 
 
 #### Course Schedule (tentative, subject to change)
-- Concept of Instruction set
-- Formulas and Gates; Unsigned numbers and Signed numbers; Characters in bits
-- MIPS basics; memory and registers; Conversion from C to MIPS
-- Coding in MIPS: loops and function calls
-- Intruction types, Multiplier and Floating numbers; Newton's Method
-- Single cycle processor; Data path and control
-- Pipeline, control and data hazards 
-
+- **Week 1-3**: Introduction to Professional Skills and Project Management
+- **Week 4-6**: Ethics in Technology and Engineering
+- **Week 7-9**: Communication and Teamwork in Professional Contexts
+- **Week 10-12**: Advanced Project Management Techniques
+- **Week 13-15**: Case Studies and Practical Applications
+- **Week 16**: Review and Final Project Presentations 
 
 
 
