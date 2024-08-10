@@ -7,12 +7,12 @@
 
 ### NAVIGATION OF ALL MATERIAL 
 
-### 1. [Course Information](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Course-Information)
+### 1. [Course Information]()
 
 
 ---
 
-### 2. [Lecture/Notes Material](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/blob/Lecture-Slides/README.md)
+### 2. [Lecture/Notes Material]()
 
 - #### [(1) Computer Performance ](https://github.com/MarkShinozaki/CPTS260-IntroductionToComputerArchitecture/tree/Lecture-Slides/Computer%20Performance) 
 
