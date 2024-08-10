@@ -1,4 +1,4 @@
-# CPTS302 - Group Case Study (GCS) Assignment
+# CPTS302 - [Group Case Study (GCS) Assignment](https://github.com/MarkShinozaki/CPTS302-ProfessionalSkillsInComputing-Engineering/blob/Initial-Final-Report/gcs_assign.pdf)
 
 ## Overview
 For this assignment, you will work in teams of five or six students. Your team’s task is to research a case study topic, prepare an ethical analysis, and write a report. The final report must utilize the ethical theories, models, and/or SECEPP code covered in class. The assignment will develop your ability to analyze complex ethical issues and communicate your findings effectively.
