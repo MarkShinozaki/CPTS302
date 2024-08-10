@@ -2,7 +2,7 @@
 
 # Ethics Assignments 
 
-## [Ethics Assignment 1 - Space Shuttle Challenger Disaster](https://github.com/MarkShinozaki/CPTS302-ProfessionalSkillsInComputing-Engineering/tree/Ethics-Assignments/Ethics%20Assignment%20%201)
+## [Ethics Assignment 1 - Autonomous Vehicles](https://github.com/MarkShinozaki/CPTS302-ProfessionalSkillsInComputing-Engineering/tree/Ethics-Assignments/Ethics%20Assignment%20%201)
 ### Assignment Description:
 This assignment involves analyzing the Space Shuttle Challenger disaster using multiple ethical frameworks. Students watch a documentary, analyze stakeholder impacts, and apply act utilitarianism, rule utilitarianism, rule deontology, and virtue ethics to assess the decision-making processes involved in the disaster.
 
