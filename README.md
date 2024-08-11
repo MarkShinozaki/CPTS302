@@ -238,17 +238,13 @@
 6. **Scenario: George and the Jet**
    - Analyzing ethical responsibilities in defense projects concerning safety and public interest.
 
-### Announcements:
-- GCS-PM plan due by 10/28/22, focusing on using provided rubrics.
-- Encouragement to apply SECEPP principles in assignments.
-
-1. **Reapplication of Ethical Theories**
+7. **Reapplication of Ethical Theories**
    - Strengthening structured arguments using ethical theories.
 
-2. **Understanding Whistleblowing**
+8. **Understanding Whistleblowing**
    - Defining whistleblowing as the release of nonpublic information to protest illegal or immoral conduct.
 
-3. **Guidelines for Whistleblowing**
+9. **Guidelines for Whistleblowing**
    - **Morally Permitted:**
      1. Product causes serious harm.
      2. Reported concern to a supervisor.
@@ -257,15 +253,13 @@
      4. Possess convincing evidence.
      5. Believe that going public will instigate change.
 
-4. **Case Study: Edward Snowden and PRISM**
+10. **Case Study: Edward Snowden and PRISM**
    - Analyzing Snowden's actions using De George’s guidelines.
 
-5. **Case Study: Bret McDanel and Tornado**
+11. **Case Study: Bret McDanel and Tornado**
    - Examining the ethical justification of exposing software vulnerabilities.
 
-### Announcements:
-- Reminder to review grading rubrics for GCS assignments.
-- Changes to office hours and importance of using rubrics.
+
 
 ### Discussion and Polls:
 - Debating the ethical justification of actions by Snowden and McDanel.
