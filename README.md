@@ -301,37 +301,31 @@
 9. **Breakout Discussion**
    - Applying Nissenbaum's model to privacy issues, such as Facebook and Cambridge Analytica.
 
-### Announcements:
-- GCS-PM plan due by 10/28/22.
-- Initial GCS report due before Thanksgiving break.
-
-### Topics Covered:
-
-1. **Data Privacy Concepts**
+10. **Data Privacy Concepts**
    - Differentiating Non-Public Personal Information (NPI) and Public Personal Information (PPI).
 
-2. **U.S. Privacy Regulations**
+11. **U.S. Privacy Regulations**
    - Overview of laws like FERPA, ECPA, HIPAA, FACTA, and GINA.
 
-3. **Fair Information Practices**
+12. **Fair Information Practices**
    - Principles of notice, choice, access, accuracy, and enforcement.
 
-4. **Informed Consent Principles**
+13. **Informed Consent Principles**
    - Ensuring users are fully informed about personal data usage.
 
-5. **Nissenbaum’s Privacy Model**
+14. **Nissenbaum’s Privacy Model**
    - Applying contextual integrity to privacy scenarios.
 
-6. **Big Data and Privacy**
+15. **Big Data and Privacy**
    - Impact of big data on privacy, focusing on variety, velocity, and veracity.
 
-7. **Data Mining and Privacy**
+16. **Data Mining and Privacy**
    - Concerns with data mining and web mining regarding personal privacy.
 
-8. **Breakout Discussion**
+17. **Breakout Discussion**
    - Examining the use of public personal information to violate privacy.
 
-9. **Polls and Discussions**
+18. **Polls and Discussions**
    - Engaging in discussions about privacy settings, social media, and privacy laws.
 
 ---
