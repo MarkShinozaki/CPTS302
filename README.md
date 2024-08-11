@@ -23,7 +23,7 @@
 
 ---
 
-### 4. [PM Assignments]()
+### 4. [PM Assignments](https://github.com/MarkShinozaki/CPTS302-ProfessionalSkillsInComputing-Engineering/tree/PM-Assignments)
 
 
 
