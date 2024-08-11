@@ -1,6 +1,6 @@
 
 # CPTS302 - WASHINGTON STATE UNIVERISTY 
-## Computer Architecture - Complete Course Navigation
+## Professional Skills Computing in Engineering - Complete Course Navigation
 
 > [!TIP]
 > ***For Easy Navigation on any page, always click on the Menu Icon towards the top right of the page***
