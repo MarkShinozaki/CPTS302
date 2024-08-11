@@ -7,21 +7,18 @@
 
 ### NAVIGATION OF ALL MATERIAL 
 
-### 1. [Course Information]()
+### 1. [Course Information](https://github.com/MarkShinozaki/CPTS302-ProfessionalSkillsInComputing-Engineering/tree/Course-Information)
 
 
 ---
 
-### 2. [Lecture/Notes Material]()
+### 2. [Lecture/Notes Material](https://github.com/MarkShinozaki/CPTS302-ProfessionalSkillsInComputing-Engineering/tree/Lecture-Slides)
 
 
 
 ---
 
-### 3. [Ethics Assignments]()
-
-
-
+### 3. [Ethics Assignments](https://github.com/MarkShinozaki/CPTS302-ProfessionalSkillsInComputing-Engineering/tree/Ethics-Assignments)
 
 
 ---
@@ -32,13 +29,13 @@
 
 --- 
 
-### 5. [PSD Midterm]()
+### 5. [PSD Midterm](https://github.com/MarkShinozaki/CPTS302-ProfessionalSkillsInComputing-Engineering/tree/PSD-Midterm)
 
 
 
 ---
 
-### 6. [Initial-Final Report]()
+### 6. [Initial-Final Report](https://github.com/MarkShinozaki/CPTS302-ProfessionalSkillsInComputing-Engineering/tree/Initial-Final-Report)
 
 
 
